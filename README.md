@@ -24,7 +24,7 @@ The objective of this project is to verify the functionality of the application,
 
 **Testing Type:** Manual Testing 
 
-**Test Environment:** Web Application 
+**Test Environment:**  Windows 11, Google Chrome 
 
 **Website:** https://opensource-demo.orangehrmlive.com/ 
 
