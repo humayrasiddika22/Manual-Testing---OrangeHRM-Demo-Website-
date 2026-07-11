@@ -7,7 +7,7 @@ The objective of this project is to verify the functionality of the application,
 
 ## Project Objectives
 
-- Understand the application's functionality and business requirements.
+- Understand the application's functionality.
 - Prepare a comprehensive Test Plan.
 - Design and execute manual test cases.
 - Identify and document software defects.
