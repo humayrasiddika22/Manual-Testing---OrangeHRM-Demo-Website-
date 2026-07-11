@@ -18,11 +18,16 @@ The objective of this project is to verify the functionality of the application,
 
 ## Application Under Test
 
-Application Name: OrangeHRM Demo
-Application Type: Human Resource Management System (HRMS)
-Testing Type: Manual Testing
-Test Environment: Web Application
-Website: https://opensource-demo.orangehrmlive.com/
+**Application Name:** OrangeHRM Demo 
+
+**Application Type:** Human Resource Management System (HRMS)
+
+**Testing Type:** Manual Testing 
+
+**Test Environment:** Web Application 
+
+**Website:** https://opensource-demo.orangehrmlive.com/ 
+
 
 ---
 
@@ -64,6 +69,7 @@ The following modules were tested:
 
 ## Repository Structure
 
+```text
 Manual-Testing---OrangeHRM-Demo-Website
 
 ├── Test Plan
@@ -83,6 +89,7 @@ Manual-Testing---OrangeHRM-Demo-Website
 │   └── All Testing Screenshots
 │
 └── README.md
+```
 
 ---
 
@@ -178,10 +185,12 @@ The project demonstrates practical knowledge of manual software testing, structu
 
 ## Author
 
-**Humayra Siddika**
+**Humayra Siddika**  
+
 Aspiring Software Quality Assurance (SQA) Engineer
 
 GitHub: https://github.com/humayrasiddika22 
+
 LinkedIn: https://linkedin.com/in/humayra-siddika/ 
 
 ---
